@@ -1,5 +1,4 @@
 # Hunyuan3D-2GP_Kaggle
-A Kaggle notebook to use Hunyuan3D-2.
 Hunyuan3D-2 is the new state of the art model to generate 3d from text or image https://github.com/Tencent/Hunyuan3D-2.
 A resource wise version is at https://github.com/deepbeepmeep/Hunyuan3D-2GP.
 This is a notebook to use it in Kaggle (kaggle.com) with a gradio interface.
